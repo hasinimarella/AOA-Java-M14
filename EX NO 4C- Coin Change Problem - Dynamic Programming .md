@@ -28,8 +28,8 @@ Otherwise, print dp[amount], the minimum number of coins needed to make the give
 ```
 /*
 Program to implement Reverse a String
-Developed by:GANJI MUNI MADHURI
-Register Number:212223230060
+Developed by:MARELLA HASINI
+Register Number:212223240083
 import java.util.*;
 
 public class Solution {
